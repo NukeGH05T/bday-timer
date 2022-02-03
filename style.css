@@ -13,10 +13,10 @@ h1 {
 }
 
 body {
-    background-image: url("./evil_turzo.png");
+    background-image: url("./evil_turzo2.png");
     font-family: 'Poppins', sans-serif;
     background-size: fill;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center top;
     background-color: #2d2d2c;
     align-items: center;
@@ -47,4 +47,12 @@ body {
 .countdown-element span {
     color: silver;
     font-size: 2rem;
+}
+
+.comp {
+    margin-top: 10rem;
+    margin-left: 70%;
+    color: beige;
+    background-color: rgb(36, 35, 35);
+    font-size: 0.8rem;
 }
