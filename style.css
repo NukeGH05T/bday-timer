@@ -13,10 +13,12 @@ h1 {
 }
 
 body {
-    background-image: url("./bg.jpg");
+    background-image: url("./evil_turzo.png");
     font-family: 'Poppins', sans-serif;
-    background-size: cover;
-    background-position: center center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: #2d2d2c;
     align-items: center;
     justify-content: center;
     display: flex;
